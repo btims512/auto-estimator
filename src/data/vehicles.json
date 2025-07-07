@@ -1,0 +1,13 @@
+
+{
+  "Toyota": ["Camry", "Corolla", "RAV4", "Highlander", "Tacoma"],
+  "Honda": ["Accord", "Civic", "CR-V", "Pilot", "Fit"],
+  "Ford": ["F-150", "Mustang", "Escape", "Explorer", "Focus"],
+  "Chevrolet": ["Silverado", "Malibu", "Equinox", "Tahoe", "Camaro"],
+  "Nissan": ["Altima", "Sentra", "Rogue", "Pathfinder", "Versa"],
+  "BMW": ["3 Series", "5 Series", "X5", "X3", "4 Series"],
+  "Mercedes-Benz": ["C-Class", "E-Class", "GLC", "GLE", "A-Class"],
+  "Audi": ["A4", "A6", "Q5", "Q7", "A3"],
+  "Volkswagen": ["Jetta", "Passat", "Tiguan", "Golf", "Atlas"],
+  "Hyundai": ["Elantra", "Sonata", "Tucson", "Santa Fe", "Accent"]
+}
