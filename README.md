@@ -84,7 +84,3 @@ This project is licensed under the MIT License.
 ---
 
 _Auto Estimator — Get a real estimate before you even leave your driveway!_
-
-```
-
-```
