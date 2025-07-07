@@ -65,7 +65,6 @@ No more waiting. No more surprises. No more wasted time.
 
 ## Getting Started
 
-```bash
 git clone https://github.com/btims512/auto-estimator.git
 cd auto-estimator
 npm install
@@ -74,7 +73,7 @@ npm start
 ## Support
 
 Have questions, feedback, or want to partner with us?
-Contact: [autoestimator@yourdomain.com](mailto:autoestimator@yourdomain.com)
+Contact: [info@bentims.com](mailto:info@bentims.com)
 
 ---
 
@@ -84,5 +83,8 @@ This project is licensed under the MIT License.
 
 ---
 
-*Auto Estimator — Get a real estimate before you even leave your driveway!*
+_Auto Estimator — Get a real estimate before you even leave your driveway!_
+
+```
+
 ```
